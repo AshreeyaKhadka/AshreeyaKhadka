@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ashreeya 👋</h1>
 
 <p align="center">
-  <img src="./typing.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=3BC0B0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Engineering+Student;Passionate+about+Tech+%26+Coding" alt="Typing SVG" />
 </p>
 
 ---
